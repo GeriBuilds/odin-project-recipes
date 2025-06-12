@@ -16,4 +16,4 @@ This repository contain simple web pages featuring cheap, delicious, and easy to
 - Launch live
 
 ## Live Demo
-This live version of the project will be available soon: https://GeriBuilds.github.io/odin-project-recipes
+This project now [live!](https://GeriBuilds.github.io/odin-project-recipes)
